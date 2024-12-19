@@ -21,8 +21,15 @@
   - [ ] etc. 
 
   <div>
-    <h2>Programming Languages ⚙💻</h2>
+    <h2>My Skills ⚙💻</h2>
+    <p align="center">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,html,css,js,java,arduino,blender,bootstrap,mint,mysql,vscode,react,npm,idea" />
+  </a>
+</p>
   </div>
+
+  
 
   
 

@@ -1,5 +1,6 @@
-![Header](./github-header-image.png)
-# **_About Me_** 🎈
+ ![Header](./github-header-image.png)
+
+ # **_About Me_** 🎈
 
 - 👋 Hi, I’m @KavinduLakshitha. I'm an undergraduate with a BSc. Software Engineering, freelancer and web developer
 - 👀 I’m interested in programming and innovation.

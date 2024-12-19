@@ -1,23 +1,24 @@
-#H1 **_About Me_** 🎈
+
+# **_About Me_** 🎈
 
 - 👋 Hi, I’m @KavinduLakshitha. I'm an undergraduate with a BSc. Software Engineering, freelancer and web developer
 - 👀 I’m interested in programming and innovation.
 - 🌱 I’m currently learning Java and PHP
 - 📫 How to reach me kavindulakshitha406@gmail.com
 
-  #H2 **_My Plannings_** ⭐
+  # **_My Plannings_** ⭐
 
-  -[*] Learn HTML , CSS, JavaScript
-  -[*] Learn Java language and develop a swing application
-  -[] Learn Java EE and Spring Boot
-  -[] Deveop a Java Web application
-  -[] Learn React
-  -[*] Learn React Native
-  -[*] Develop a Mobile Application (React Native)📱
-  -[*] Learn PHP
-  -[] Learn Laraval
-  -[*] Learn Arduino and Develop a Robot
-  -[][] etc. 
+  - [x] Learn HTML , CSS, JavaScript;
+  - [x] Learn Java language and develop a swing application
+  - [ ] Learn Java EE and Spring Boot
+  - [ ] Deveop a Java Web application
+  - [ ] Learn React
+  - [x] Learn React Native
+  - [ ] Develop a Mobile Application (React Native)📱
+  - [x] Learn PHP
+  - [ ] Learn Laraval
+  - [x] Learn Arduino and Develop a Robot
+  - [ ] etc. 
 
   <div>
     <h2>Programming Languages ⚙💻</h2>

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎈 About Me</h1>
+  <h1 style="text-align:left; ">🎈 About Me</h1>
 </div>
 
 - 👋 Hi, I’m @KavinduLakshitha. I'm an undergraduate with a BSc. Software Engineering, freelancer and web developer

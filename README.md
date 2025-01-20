@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning Java and PHP
 - 📫 How to reach me kavindulakshitha406@gmail.com
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&width=435&lines=Always+Keep+Coding!+%F0%9F%92%BB;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%8C" alt="Typing SVG">
+</p>
+
   # **_My Plannings_** ⭐
 
   - [x] Learn HTML , CSS, JavaScript;
